@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer :computer: working on [10Pearls](https://10pearls.com/)
 
-Software Engineer working on 10Pearls. I have overall 3.5 years of Experience Creating and Architecting Web Solutions for clients. Experienced in client and server-side JavaScript technologies including Serverless technologies on AWS and Google Cloud Platform.Experience on JavaScript based tech-stacks such as Angular, React and NodeJS on small to large scale projects. Now looking for a backend engineer position, especially on Golang or Nodejs technology. 
+I have overall 3.5 years of Experience Creating and Architecting Web Solutions for clients. Experienced in client and server-side JavaScript technologies including Serverless technologies on AWS and Google Cloud Platform.Experience on JavaScript based tech-stacks such as Angular, React and NodeJS on small to large scale projects. Now looking for a backend engineer position, especially on Golang or Nodejs technology. 
 
 ### Connect with me:
 
