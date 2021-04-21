@@ -9,7 +9,7 @@ I have overall 3.5 years of Experience Creating and Architecting Web Solutions f
 [![Twitter Follow](https://img.shields.io/twitter/follow/mquanit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mquanit)
 
  
-## Profile View (no one wants to see me 😢 )
+## Profile View
 ![](https://komarev.com/ghpvc/?username=Mohammad-Quanit)
 
 ![M.Quanit's github stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Quanit&theme=react&show_icons=true)
