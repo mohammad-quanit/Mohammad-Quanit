@@ -2,7 +2,12 @@
 
 ## I'm a Software Engineer :computer: working on [10Pearls](https://10pearls.com/)
 
-I have overall 3.5 years of Experience Creating and Architecting Web Solutions for clients. Experienced in client and server-side JavaScript technologies including Serverless technologies on AWS and Google Cloud Platform.Experience on JavaScript based tech-stacks such as Angular, React and NodeJS on small to large scale projects. Now looking for a backend engineer position, especially on Golang or Nodejs technology. 
+Hi 👋, I am Mohammad Quanit, and I am working as a Software engineer at 10Pearls. I have overall 3.6 years of experience as a software engineer in which I've been mostly working on Javascript alongside its frameworks. I do write tech articles for different publications as well and have experience as a tech speaker in different local and international conferences as well. Experienced in JavaScript-based tech-stacks such as Angular, React, and NodeJS on small to large scale projects and now learning advanced backend development as I am looking to switch on the backend development side.
+
+I do content writing for the community, so check my blogging website for my blogs that I've written on, <br />
+✍🏻 **https://mquanit.netlify.app/blog/** <br />
+✍🏻 **https://dev.to/mquanit**
+
 
 ### Connect with me:
 
