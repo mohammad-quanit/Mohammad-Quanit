@@ -1,8 +1,6 @@
-## Hi I am Mohammad Quanit 👋
+## 👋 Hi I am Mohammad Quanit - pronounced as [(Qa-nit)](https://www.nameslook.com/qanit/)
 
-## I'm a Software Engineer :computer: working on [10Pearls](https://10pearls.com/)
-
-Hi 👋, I am Mohammad Quanit, and I am working as a Software engineer at 10Pearls. I have overall 3.6 years of experience as a software engineer in which I've been mostly working on Javascript alongside its frameworks. I do write tech articles for different publications as well and have experience as a tech speaker in different local and international conferences as well. Experienced in JavaScript-based tech-stacks such as Angular, React, and NodeJS on small to large scale projects and now learning advanced backend development as I am looking to switch on the backend development side.
+Hi 👋, I am Mohammad Quanit, and I'm a Software engineer at [10Pearls](https://10pearls.com/). I have overall 4 years of experience in software engineering in which I've been mostly working on Javascript alongside its frameworks. I do write tech articles for different publications as well and have experience as a tech speaker in different local and international conferences as well. Experienced in JavaScript-based tech-stacks such as Angular, React, and NodeJS on small to large scale projects and now learning advanced backend development with Golang as i'm in love this language.
 
 I do content writing for the community, so check my blogging website for my blogs that I've written on, <br />
 ✍🏻 **https://mquanit.netlify.app/blog/** <br />
