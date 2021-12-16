@@ -15,12 +15,21 @@ I do content writing for the community, so check my blogging website for my blog
 ## Profile View
 ![](https://komarev.com/ghpvc/?username=Mohammad-Quanit)
 
-![M.Quanit's github stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Quanit&theme=react&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Quanit&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+![M.Quanit's github stats](https://github-readme-stats.vercel.app/api?username=mohammad-quanit&include_all_commits=true&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Quanit&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8&hide=html,php,dart,vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+- 🔭 I’m currently working on Javascript, React, Nextjs, Gatsby, Golang, AWS, Netlify
+- 🌱 I’m currently learning Golang, AWS Cloud computing, High & Low level System Designing
+- 🤔 I’m looking for help with mentors who are activley working on cloud technologies
+- 💬 Ask me about Anything you want
+- 📫 How to reach me: `muhammadquanit@gmail.com`
+- 😄 Pronouns: [(Qa-nit)](https://www.nameslook.com/qanit/)
+- ⚡ Fun fact: You can't beat me in meme games 💁‍♂️
 
 <!--
 **Mohammad-Quanit/Mohammad-Quanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,14 +37,3 @@ I do content writing for the community, so check my blogging website for my blog
 
 [![Stargazers repo roster for @Mohammad-Quanit/Mohammad-Quanit](https://reporoster.com/stars/Mohammad-Quanit/Mohammad-Quanit)](https://github.com/Mohammad-Quanit/Mohammad-Quanit/stargazers)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
