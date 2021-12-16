@@ -6,13 +6,22 @@ I do content writing for the community, so check my blogging website for my blog
 ✍🏻 **https://mquanit.netlify.app/blog/** <br />
 ✍🏻 **https://dev.to/mquanit**
 
+## About Me:
+- 🔭 I’m currently working on Javascript, React, Nextjs, Gatsby, Golang, AWS, Netlify
+- 🌱 I’m currently learning Golang, AWS Cloud computing, High & Low level System Designing
+- 🤔 I’m looking for help with mentors who are activley working on cloud technologies
+- 💬 Ask me about Anything you want
+- 📫 How to reach me: `muhammadquanit@gmail.com`
+- 😄 Pronouns: [(Qa-nit)](https://www.nameslook.com/qanit/)
+- ⚡ Fun fact: You can't beat me in meme games 💁‍♂️
+
+
 
 ### Connect with me:
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/mquanit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mquanit)
 
  
-## Profile View
+## Profile Views & Stats
 ![](https://komarev.com/ghpvc/?username=Mohammad-Quanit)
 
 
@@ -21,15 +30,6 @@ I do content writing for the community, so check my blogging website for my blog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Quanit&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8&hide=html,php,dart,vue)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-- 🔭 I’m currently working on Javascript, React, Nextjs, Gatsby, Golang, AWS, Netlify
-- 🌱 I’m currently learning Golang, AWS Cloud computing, High & Low level System Designing
-- 🤔 I’m looking for help with mentors who are activley working on cloud technologies
-- 💬 Ask me about Anything you want
-- 📫 How to reach me: `muhammadquanit@gmail.com`
-- 😄 Pronouns: [(Qa-nit)](https://www.nameslook.com/qanit/)
-- ⚡ Fun fact: You can't beat me in meme games 💁‍♂️
 
 <!--
 **Mohammad-Quanit/Mohammad-Quanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
