@@ -7,14 +7,12 @@ I do content writing for the community, so check my blogging website for my blog
 ✍🏻 **https://dev.to/mquanit**
 
 ## About Me:
-- 🔭 I’m currently working on Javascript, React, Nextjs, Gatsby, Golang, AWS, Netlify
-- 🌱 I’m currently learning Golang, AWS Cloud computing, High & Low level System Designing
+- 🔭 I’m currently working on Javascript, Nodejs, Golang, AWS, DevOps
+- 🌱 I’m currently learning Golang, AWS Cloud computing, High & Low level System Design
 - 🤔 I’m looking for help with mentors who are activley working on cloud technologies
 - 💬 Ask me about Anything you want
 - 📫 How to reach me: `muhammadquanit@gmail.com`
-- 😄 Pronouns: [(Qa-nit)](https://www.nameslook.com/qanit/)
-- ⚡ Fun fact: You can't beat me in meme games 💁‍♂️
-
+- 😄 Pronounciation as: [(Qa-nit)](https://www.nameslook.com/qanit/)
 
 
 ### Connect with me:
