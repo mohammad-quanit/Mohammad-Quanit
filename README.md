@@ -1,11 +1,11 @@
 ## 👋 Hi I am Mohammad Quanit - pronounced as [(Qa-nit)](https://www.nameslook.com/qanit/)
-Hi 👋, I am Mohammad Quanit - pronounced as `Qa-nit`, and I'm a Sr. Software engineer. I have overall 5+ years of experience in software engineering in which I've been mostly working on Javascript alongside its frameworks. I do write tech articles for different publications as well and have experience as a tech speaker in different local and international conferences as well. Experienced in JavaScript-based tech stacks such as Angular, React, and NodeJS on small to large-scale projects. My interest lies in Engineering Management, Designing Solutions for Customers, Leadership, and Mentoring.
+Hi 👋, I am Mohammad Quanit - pronounced as `Qa-nit`, and I'm a Sr. Software engineer. I have overall 5+ years of experience in software engineering in which I've been mostly working on Javascript alongside its frameworks. I do write tech articles for different publications as well and have experience as a tech speaker in different local and international conferences as well. Experienced in JavaScript-based tech stacks such as Angular, React, and NodeJS on small to large-scale projects. My interest lies in Engineering Management, Designing Solutions for Customers, Leadership, and Mentoring. <br />
 
-About Me:
-🔭 I’m currently working with Nodejs, Golang, AWS, DevOps
-🌱 I’m currently learning Golang, Containers, Cloud Platforms, High & Low-level System Design
-✍🏻 I do content writing for the tech community on `https://dev.to/mquanit`
-📫 How to reach me: `muhammadquanit@gmail.com`
+
+🔭 I’m currently working with Nodejs, Golang, AWS, DevOps. <br />
+🌱 I’m currently learning Golang, Containers, Cloud Platforms, High & Low-level System Design. <br />
+✍🏻 I do content writing for the tech community on `https://dev.to/mquanit`. <br />
+📫 How to reach me: `muhammadquanit@gmail.com`. <br />
 
 
 ### Connect with me:
