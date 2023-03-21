@@ -6,7 +6,7 @@ Pronounced as [(Qa-nit)](https://www.nameslook.com/qanit/), and I'm a Sr. Softwa
 🔭 I’m currently working with Nodejs, Golang, AWS, DevOps. <br />
 🌱 I’m currently learning Golang, Containers, Cloud Platforms, High & Low-level System Design. <br />
 ✍🏻 I do content writing for the tech community on `https://dev.to/mquanit`. <br />
-📫 How to reach me: `muhammadquanit@gmail.com`. <br />
+📫 Reach me out on: `muhammadquanit@gmail.com`. <br />
 
 
 ### Connect with me:
