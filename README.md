@@ -43,11 +43,10 @@ Pronounced as [(Qa-nit)](https://www.nameslook.com/qanit/), andI'm a Sr. Softwar
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammad-quanit&theme=github-compact)
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-quanit&&theme=monokai&area=true&hide_border=true)
 
-<!--
-**Mohammad-Quanit/Mohammad-Quanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Stargazers
+<!-- **Mohammad-Quanit/Mohammad-Quanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- ## Stargazers
 
-[![Stargazers repo roster for @Mohammad-Quanit/Mohammad-Quanit](https://reporoster.com/stars/Mohammad-Quanit/Mohammad-Quanit)](https://github.com/Mohammad-Quanit/Mohammad-Quanit/stargazers)
+[![Stargazers repo roster for @Mohammad-Quanit/Mohammad-Quanit](https://reporoster.com/stars/Mohammad-Quanit/Mohammad-Quanit)](https://github.com/Mohammad-Quanit/Mohammad-Quanit/stargazers) -->
 
