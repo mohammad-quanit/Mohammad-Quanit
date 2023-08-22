@@ -1,19 +1,27 @@
 ![banner](./header.png)
 
 
-Pronounced as [(Qa-nit)](https://www.nameslook.com/qanit/), andI'm a Sr. Software engineer. I have 5+ years of experience in software engineering, where I've mostly worked on Javascript alongside its frameworks. I do write tech articles for different publications as well and have experience as a tech speaker at various local and international conferences as well. I am experienced in JavaScript-based tech stacks such as React, NextJS and NodeJS on small to large-scale projects. My interest lies in Engineering Management, Designing Solutions for Customers, Leadership, and Mentoring. <br />
+I am [Mohammad Quanit](https://www.nameslook.com/qanit/) (pronounced as "Ka-nit") and Welcome to my GitHub page. As a seasoned Senior Software Engineer with over 6 years of industry experience, I have passionately delved into the realm of software engineering, where my primary focus has been on mastering the intricacies of JavaScript, Go & Cloud Technologies. 
+
+In addition to my coding endeavours, I also wield my quill to craft technical articles for various esteemed publications. Beyond the written word, I have graced numerous local and international conferences as a tech speaker, sharing insights and sparking discussions on the latest industry trends.
+
+Beyond the codebase, my passions encompass Engineering Management, the art of crafting tailored customer solutions, and the dynamic spheres of Leadership and Mentoring.
+
+<br />
 
 
-🔭 I’m currently working with Nodejs, Golang, AWS, DevOps. <br />
-🌱 I’m currently learning Golang, Containers, Cloud Platforms, High & Low-level System Design. <br />
-✍🏻 I do content writing for the tech community on `https://dev.to/mquanit`. <br />
-📫 Reach me out on: `muhammadquanit@gmail.com`. <br />
+🔭 At present I am actively working with techs like Nodejs, Golang, AWS, and Azure.  <br />
+🌱 I’m currently learning Golang Advanced, Rust, Containers, Distributed Systems, Cloud Architecting Design, High & Low-level System Design. <br />
+✍🏻 When not immersed in code, I do crafting content for the tech community over at `https://dev.to/mquanit`. <br />
+📫 Don't hesitate to reach out to me at `muhammadquanit@gmail.com`. Your thoughts, questions, and ideas are always warmly welcomed. 
+<br />
 
+Here's to a journey of continuous learning and collaborative innovation!
 
 
 ### Connect with me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/mquanit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mquanit)
-<p align="left"> <a href="https://dev.to/mquanit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mquanit" height="30" width="40" /></a>
+
 
 
 <br />
@@ -23,9 +31,9 @@ Pronounced as [(Qa-nit)](https://www.nameslook.com/qanit/), andI'm a Sr. Softwar
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+-->
 
 <br />
  
@@ -43,7 +51,7 @@ Pronounced as [(Qa-nit)](https://www.nameslook.com/qanit/), andI'm a Sr. Softwar
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-quanit&&theme=monokai&area=true&hide_border=true)
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-quanit&&theme=monokai&area=true&hide_border=true)
 
 <!-- **Mohammad-Quanit/Mohammad-Quanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- ## Stargazers
