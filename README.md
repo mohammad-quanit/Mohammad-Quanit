@@ -1,4 +1,5 @@
-![banner](./header.png)
+![Header](./github-header-image.png)
+
 
 
 I am [Mohammad Quanit](https://www.nameslook.com/qanit/) (pronounced as "Ka-nit") and Welcome to my GitHub. With over six years of experience, I have acquired a wealth of knowledge and expertise in the field of software engineering. My areas of specialization include JavaScript, Go, and Cloud Technologies, and I have dedicated my professional career to mastering these areas. I am deeply passionate about software engineering and am committed to delivering exceptional results in all my endeavors. 
