@@ -33,20 +33,19 @@ Here's to a journey of continuous learning and collaborative innovation!
 [![mquanit's GitHub | Stats](https://stats.quine.sh/mquanit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mquanit)
 
 
-### Top Topics:
+<!--### Top Topics:
 [![mquanit's GitHub | Topics Over Time](https://stats.quine.sh/mquanit/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mquanit)
 
 ### Tech Stats:
-[![mquanit's GitHub | Languages Over Time](https://stats.quine.sh/mquanit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mquanit)
+[![mquanit's GitHub | Languages Over Time](https://stats.quine.sh/mquanit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mquanit) -->
 
 ### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Quanit&layout=compact&count_private=true&show_icons=true&theme=monokai&langs_count=4&hide_border=true&hide=html,php,dart,vue)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-quanit&show_icons=true&locale=en&layout=compact&theme=monokai" alt="mohammad-quanit" /></p>
-
+### Gh Streaks:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-quanit&show_icons=true&locale=en&theme=monokai" alt="mohammad-quanit" /></p>
 
+### Top Languages:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-quanit&theme=monokai" alt="mohammad-quanit" /></p>
 
 
