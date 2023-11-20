@@ -11,8 +11,8 @@ Beyond the codebase, my passions encompass Engineering Management, the art of cr
 
 
 🔭 At present I am actively working with techs like Nodejs, Golang, AWS, and Azure.  <br />
-🌱 I’m currently learning Golang Advanced, Rust, Containers, Distributed Systems, Cloud Architecting Design, and High and low-level System Design. <br />
-✍🏻 When not immersed in code, I do crafting content for the tech community over at `https://dev.to/mquanit`. <br />
+🌱 I’m currently learning Golang Advanced, Rust, Containers, Distributed Systems, Cloud Architecting Design, and High and Low-level System Design. <br />
+✍🏻 When not immersed in code, I craft content for the tech community over at `https://dev.to/mquanit`. <br />
 📫 Don't hesitate to reach out to me at `muhammadquanit@gmail.com`. Your thoughts, questions, and ideas are always warmly welcomed. 
 <br />
 
@@ -29,7 +29,7 @@ Here's to a journey of continuous learning and collaborative innovation!
 ### Connect with me:
 <p align="left"> <a href="https://twitter.com/mquanit" target="blank"><img src="https://img.shields.io/twitter/follow/mquanit?logo=twitter&style=for-the-badge" alt="mquanit" /></a> </p>
 
-### Gh Usage:
+### GitHub Usage:
 [![mquanit's GitHub | Stats](https://stats.quine.sh/mquanit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mquanit)
 
 
@@ -42,10 +42,10 @@ Here's to a journey of continuous learning and collaborative innovation!
 ### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Quanit&layout=compact&count_private=true&show_icons=true&theme=monokai&langs_count=4&hide_border=true&hide=html,php,dart,vue)](https://github.com/anuraghazra/github-readme-stats)
 
-### Gh Streaks:
+### GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-quanit&show_icons=true&locale=en&theme=monokai" alt="mohammad-quanit" /></p>
 
-### Top Languages:
+### GitHub Streaks:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-quanit&theme=monokai" alt="mohammad-quanit" /></p>
 
 
