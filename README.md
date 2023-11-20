@@ -1,16 +1,16 @@
 ![banner](./header.png)
 
 
-I am [Mohammad Quanit](https://www.nameslook.com/qanit/) (pronounced as "Ka-nit") and Welcome to my GitHub page. As a seasoned Senior Software Engineer with over 6 years of industry experience, I have passionately delved into the realm of software engineering, where my primary focus has been on mastering the intricacies of JavaScript, Go & Cloud Technologies. 
+I am [Mohammad Quanit](https://www.nameslook.com/qanit/) (pronounced as "Ka-nit") and Welcome to my GitHub. With over six years of experience, I have acquired a wealth of knowledge and expertise in the field of software engineering. My areas of specialization include JavaScript, Go, and Cloud Technologies, and I have dedicated my professional career to mastering these areas. I am deeply passionate about software engineering and am committed to delivering exceptional results in all my endeavors. 
 
-In addition to my coding endeavors, I also wield my quill to craft technical articles for various esteemed publications. Beyond the written word, I have graced numerous local and international conferences as a tech speaker, sharing insights and sparking discussions on the latest industry trends.
+Apart from coding, I also write technical articles for renowned publications. Additionally, I have participated as a tech speaker in various national and international conferences, where I share insights and spark discussions on the latest trends in the industry.
 
-Beyond the codebase, my passions encompass Engineering Management, the art of crafting tailored customer solutions, and the dynamic spheres of Leadership and Mentoring.
+Beyond software development, I am passionate about Engineering Management, crafting tailored solutions for customers, and the dynamic areas of leadership and mentoring.
 
 <br />
 
 
-🔭 At present I am actively working with techs like Nodejs, Golang, AWS, and Azure.  <br />
+🔭 At present I am actively working with techs like Nodejs, Golang, AWS, and Serverless.  <br />
 🌱 I’m currently learning Golang Advanced, Rust, Containers, Distributed Systems, Cloud Architecting Design, and High and Low-level System Design. <br />
 ✍🏻 When not immersed in code, I craft content for the tech community over at `https://dev.to/mquanit`. <br />
 📫 Don't hesitate to reach out to me at `muhammadquanit@gmail.com`. Your thoughts, questions, and ideas are always warmly welcomed. 
