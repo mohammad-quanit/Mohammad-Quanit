@@ -5,20 +5,21 @@
     <summary>
       <h1>
         👋 I am Mohammad Quanit
+      </h1>
     </summary>
   </ul>
 </div>
 
-Welcome to my GitHub. With over 7 years of experience, I have acquired a wealth of knowledge and expertise in software engineering. My areas of specialization include JavaScript, Go, and Cloud Technologies, and I have dedicated my professional career to mastering these areas. I am deeply passionate about software engineering and am committed to delivering exceptional results in all my endeavors. 
+Welcome to my GitHub. With over 7 years of experience, I have acquired a wealth of knowledge and expertise in software engineering. My areas of specialization include JavaScript, Nodejs, Go, AWS, GCP, and Kubernetes, and I have dedicated my professional career to mastering these areas. I am deeply passionate about software engineering and am committed to delivering exceptional results in all my endeavors. 
 
-Apart from coding, I also write technical articles for renowned publications. Additionally, I have participated as a tech speaker in various national and international conferences, where I share insights and spark discussions on the latest trends in the industry.
+Apart from coding, I also write technical articles for renowned publications. Additionally, I have participated as a tech speaker in various national and international conferences, where I share insights and spark discussions on the latest industry trends.
 
 Beyond software development, I am passionate about Engineering Management, crafting tailored solutions for customers, and the dynamic areas of leadership and mentoring.
 
 <br />
 
 
-🔭 At present I am actively working with techs like Nodejs, Golang, AWS, and Serverless.  <br />
+🔭 At present, I am actively working with techs like Nodejs, Golang, AWS, GCP, Azure, and Kubernetes.  <br />
 🌱 I’m currently learning Golang Advanced, Rust, Containers, Distributed Systems, Cloud Architecting Design, and High and Low-level System Design. <br />
 ✍🏻 When not immersed in code, I craft content for the tech community at `https://dev.to/mquanit`. <br />
 📫 Don't hesitate to reach out to me at `muhammadquanit@gmail.com`. Your thoughts, questions, and ideas are always warmly welcomed. 
